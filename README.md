@@ -2,6 +2,6 @@
  
  Done in collaboration with George Tang and William Zhao.
  
- ## ClassroomNet: Learning Generalizable, Interpretable Features via Stacked Knowledge Distillation
+ ## ClassroomNet: Learning generalizable, interpretable features via knowledge distillation.
  
  Paper available [here](paper.pdf).
